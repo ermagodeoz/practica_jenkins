@@ -1,0 +1,4 @@
+Crear main.java
+Compilar: 
+	javac Main.java
+	java Main
