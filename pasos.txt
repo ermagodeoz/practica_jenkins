@@ -2,3 +2,4 @@ Crear main.java
 Compilar: 
 	javac Main.java
 	java Main
+Crear Nuevo repo en Github para subir
